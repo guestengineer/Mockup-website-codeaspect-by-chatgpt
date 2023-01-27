@@ -35,8 +35,6 @@ body {
     /*word-spacing: 9pt;   /* separacion entre palabras */
     /*line-height: 16pt;   /* separacion entre lineas */ 
     /* text-indent: 28pt;   /* para sangrias */
-    
-
   }
   
   /* Estilos de la sección Home */
@@ -46,6 +44,7 @@ body {
     background-image: linear-gradient(102deg, #a30031 0%, #a90649 30%, #060400 66%, #0093e9 100%);*/
     text-align: center;
     padding: 150px;
+    /*margin-top: 60px; /* Bajar un poco mas las letras del h1 */
   }
   
   #home h1 {
@@ -139,7 +138,6 @@ body {
     font-weight: 600;
     margin-top: 20px;
     display: inline-block;
-  
     }
     
     #contact form input[type="submit"]:hover {
